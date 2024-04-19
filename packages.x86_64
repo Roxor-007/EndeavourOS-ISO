@@ -247,6 +247,7 @@ xwaylandvideobridge
 
 ## Browser
 firefox
+firefox-ublock-origin
 
 ## System
 meld
@@ -299,3 +300,20 @@ open-vm-tools
 xf86-input-vmmouse
 xf86-video-vmware
 xf86-video-qxl
+
+visual-studio-code-bin
+archlinux-tweak-tool-git
+grub-customizer
+bibata-cursor-theme
+ttf-meslo-nerd-font-powerlevel10k
+docker
+docker-compose
+jdk
+maven
+gradle
+jenkins
+neofetch
+chaotic-keyring
+arcolinux-keyring
+chaotic-mirrorlist
+arcolinux-mirrorlist-git
